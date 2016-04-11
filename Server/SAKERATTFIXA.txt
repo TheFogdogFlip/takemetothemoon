@@ -1,0 +1,8 @@
+Använd AppEngine av Google och följ deras instruktioner för att göra en server
+
+
+-email i release funkar inte
+
+-koll ifall användaren har lämnat spelet måste fixas , (för att ta bort accesstoken)
+
+-check ifall accesstoken har passerat tiden för att ta bort den

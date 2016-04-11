@@ -1,0 +1,4 @@
+cron:
+- description: hourly check
+  url: /HS
+  schedule: every 1 mins
