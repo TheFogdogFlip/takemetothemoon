@@ -14,6 +14,7 @@ public class FacebookManager : MonoBehaviour {
     private List<object> scoresList = null;
 
     private Dictionary<string, string> profile = null;
+
     void Awake()
     {
        //FB.Init(SetInit, OnHideUnity);
